@@ -1,0 +1,64 @@
+table {
+    border: 0;
+}
+#hyd {
+    background-color: rgb(149, 193, 231);
+    text-align: center;
+}
+.inertgas { 
+    background-color: rgb(226, 157, 226);
+    text-align: center;
+}
+.alkali {
+    background-color: rgb(236, 125, 162);
+    text-align: center;
+}
+.alkaliearth {
+    background-color: rgb(231, 178, 78);
+    text-align: center;
+}
+.transition {
+    background-color: rgb(238, 238, 102);
+    text-align: center;
+}
+.bor {
+    background-color: rgb(128, 204, 235); 
+    text-align: center;
+}
+.bcar {
+    background-color: rgba(48, 226, 48, 0.815);
+    text-align: center;
+}
+.nitro {
+    background-color: rgba(65, 126, 240, 0.884);
+    text-align: center;
+}
+.halogen {
+    background-color: rgb(180, 121, 235);
+    text-align: center;
+}
+.lanthanide {
+    background-color: rgba(83, 42, 42, 0.432);
+    text-align: center;
+}
+.actinide {
+    background-color: rgba(87, 10, 10, 0.521);
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+.elements {
+    background-color: white;
+}
+.group {
+    text-align: center;
+}
+#ot {
+    text-align: center;
+}
+table  {
+    height: 50%;
+    width: 80%;
+}
